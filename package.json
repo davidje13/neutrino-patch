@@ -1,6 +1,6 @@
 {
   "name": "neutrino-patch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple patched methods for neutrino",
   "files": [
     "index.js"
