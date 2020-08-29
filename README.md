@@ -5,7 +5,7 @@ Adds simple methods to Neutrino to make managing configuration easier.
 ## Install dependency
 
 ```bash
-npm install --save git+https://github.com/davidje13/neutrino-patch#semver:^1.0.3
+npm install --save neutrino-patch
 ```
 
 ## Usage
